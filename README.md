@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EbotProg
+- 👋 Hi, I’m Achale Ebot
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning nodejs, express.js and mongodb
 - 💞️ I will like to work with others on their projects
