@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Achale Ebot
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning nodejs, express.js and mongodb
+- 🌱 I’m currently working on a file sharing application
 - 💞️ I will like to work with others on their projects
 - 📫 You can reach me through achaleebotoma2002@gmail.com
 
