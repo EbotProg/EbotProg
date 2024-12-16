@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Achale Ebot Oma</h1>
 <h3 align="center">A passionate fullstack web developer from Cameroon</h3>
 
-- 🔭 I’m currently working on [blogz](https://github.com/EbotProg/Blogz)
+- 🔭 I’m currently an intern at camsol
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently working with nextjs and tailwindcss
 
 - 💬 Ask me about **bootstrap, nodejs, html, css, js, mongodb**
 
