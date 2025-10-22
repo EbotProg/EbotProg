@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Achale Ebot Oma</h1>
-<h3 align="center">A passionate fullstack web developer from Cameroon</h3>
-
-- 🔭 I’m currently a trainee at Emlogicx
-
-- 🌱 I’m currently working with nextjs and tailwindcss
-
-- 💬 Ask me about **bootstrap, nodejs, html, css, js, mongodb, docker**
+<h3 align="center">A fullstack web developer from Cameroon</h3>
 
 - 📫 How to reach me **achaleebotoma2002@gmail.com**
 
